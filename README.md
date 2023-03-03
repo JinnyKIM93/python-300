@@ -1,5 +1,5 @@
 # :pushpin: python-300제 
-## :pencil: 파이썬 300제 문제 풀기
+## :open_file_folder: 파이썬 300제 문제 풀기
 
 :one: 초보자 11_20문제
 
